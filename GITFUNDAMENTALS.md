@@ -3,7 +3,7 @@
 ## What I have learnt so far :dart:
 
 It has been more than three weeks of learning and i am always excited to come to the evening classes.
-![this is an image](https://www.freepik.com/free-vector/funny-white-cat-sunglasses-sweater-sofa_28698962.htm#query=cat%20cartoon&position=42&from_view=keyword)
+![this is an image](https://unsplash.com/photos/VOV0q44b7R4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 # Different type of career path such as:
 
@@ -53,8 +53,8 @@ There are 12 principles, these are 5 of them. :sparkles:
 
   I have learnt to use command lines to create :
 
-  - New directory **mkdir fileName.txt**
-  - New file **git touch**
+  - New directory _mkdir directoryName_
+  - New file _touch fileName.txt_
   - move to a new directory **cd**
   - Create a repository on **GITHUB**
   - Add push code on **GITHUB**
@@ -68,7 +68,7 @@ git status
 
 ## My Challenges :diamonds:
 
-**It is a bit confuse to remember all the command lines but i guess with more _practice_, I will be fine**.
+**It is a bit _confusing_ to remember all the command lines but i guess with more _practise_, I will be fine**.
 
 [My Learning Platform](https://learning.blackcodher.tech/)
 
