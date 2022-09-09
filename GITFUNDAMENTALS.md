@@ -3,9 +3,10 @@
 ## What I have learnt so far :dart:
 
 It has been more than three weeks of learning and i am always excited to come to the evening classes.
-![this is an image](https://img.freepik.com/premium-photo/smile-face-yellow-wood-cube_42256-1764.jpg?w=1060)
+
 
 # Different type of career path such as:
+![this is an image](https://img.freepik.com/free-vector/business-leader-standing-arrow-holding-flag-flat-vector-illustration-cartoon-people-training-doing-business-plan-leadership-victory-challenge-concept_74855-9812.jpg?w=996&t=st=1662732844~exp=1662733444~hmac=77e63d16e7c318d788fe6a0b68b4a587cdc37010c9a2aa2f6e913087d6a24903)
 
 - DeveOPs Engineer
 - Game Developer
