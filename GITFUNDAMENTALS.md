@@ -1,4 +1,4 @@
-# MY JOURNEY AS A FULL STACK DEVELOPER. BootCamp DALY COHORT. :weight_lifting_woman:
+# BLACKCODHER STUDENT. DALY COHORT. :weight_lifting_woman:
 
 ## What I have learnt so far :dart:
 
@@ -54,8 +54,8 @@ A version control system is used by developers to:
 
 ### 😎 I have learnt to use command lines to create :
 
-  - New directory **mkdir fileName.txt**
-  - New file **git touch**
+  - New directory _mkdir directoryName_
+  - New file _touch fileName.txt_
   - move to a new directory **cd**
   - Create a repository on **GITHUB**
   - Add push code on **GITHUB**
@@ -68,8 +68,6 @@ git status
 ```
 
 ## My Challenges :diamonds:
-
-
 **It is a bit _confusing_ to remember all the command lines but i guess with more _practise_, I will be fine**.
 
 - [My Learning Platform](https://learning.blackcodher.tech/)
