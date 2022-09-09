@@ -68,7 +68,6 @@ git status
 ```
 
 ## My Challenges :diamonds:
-
 **It is a bit _confusing_ to remember all the command lines but i guess with more _practise_, I will be fine**.
 
 - [My Learning Platform](https://learning.blackcodher.tech/)
