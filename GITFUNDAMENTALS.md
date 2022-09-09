@@ -1,4 +1,4 @@
-# MY JOURNEY AS A FULL STACK DEVELOPER. BootCamp DALY COHORT. :weight_lifting_woman:
+# BLACKCODHER STUDENT. DALY COHORT. :weight_lifting_woman:
 
 ## What I have learnt so far :dart:
 
@@ -22,7 +22,7 @@ This is the summary in 3 points
 - Create hypothesis,implements change, reviews how it impacts the business
 - Think big
 
-## [Agile Manifesto](https://agilemanifesto.org/principles.html)
+## [Agile Manifesto](https://agilemanifesto.org/principles.html) :bulb:
 
 There are 12 principles, these are 5 of them. :sparkles:
 
@@ -45,7 +45,7 @@ There are 12 principles, these are 5 of them. :sparkles:
 - GITHUB
 - GITLAB
 - BITBUCKET
-  A version control system is used by developers to:
+A version control system is used by developers to:
 
 * Collaborate on a project
 * To save your code
