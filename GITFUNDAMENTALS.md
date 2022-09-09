@@ -40,7 +40,7 @@ There are 12 principles, these are 5 of them. :sparkles:
 - [x] Testing
 - [x] Evolution
 
-## Version control system such has:
+## Version control system such has: 🌟
 
 - GITHUB
 - GITLAB
@@ -52,7 +52,7 @@ A version control system is used by developers to:
 * Allow developer to track changes to their code
   **_On this BootCamp we will be using GITHUB_**
 
-  I have learnt to use command lines to create :
+### 😎 I have learnt to use command lines to create :
 
   - New directory _mkdir directoryName_
   - New file _touch fileName.txt_
