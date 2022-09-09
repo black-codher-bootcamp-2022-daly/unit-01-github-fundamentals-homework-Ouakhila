@@ -72,7 +72,7 @@ git status
 **It is a bit _confusing_ to remember all the command lines but i guess with more _practise_, I will be fine**.
 
 [My Learning Platform](https://learning.blackcodher.tech/)
-
-[Get to know about me](https://github.com/ouakhila)
-
 [my profile](https://github.com/black-codher-bootcamp-2022-daly/unit-01-command-line-and-git-assessment-Ouakhila/blob/main/PROFILE.md)
+## I AM WORKING ON:☄️⚡️
+[black-codher-html-practice-1](https://github.com/Ouakhila/black-codher-html-practice-1)
+[black-codher-html-css-session3](black-codher-html-css-session3)
