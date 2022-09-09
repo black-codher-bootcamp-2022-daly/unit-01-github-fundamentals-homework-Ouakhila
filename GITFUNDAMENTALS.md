@@ -3,7 +3,7 @@
 ## What I have learnt so far :dart:
 
 It has been more than three weeks of learning and i am always excited to come to the evening classes.
-![this is an image](https://unsplash.com/photos/VOV0q44b7R4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+![this is an image](https://img.freepik.com/premium-photo/smile-face-yellow-wood-cube_42256-1764.jpg?w=1060)
 
 # Different type of career path such as:
 
